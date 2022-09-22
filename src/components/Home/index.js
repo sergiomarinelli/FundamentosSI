@@ -55,11 +55,6 @@ const Home = () => {
         icon="waving.svg"
         id="product"
       />
-      <ContactFrom
-        title={ContactContent.title}
-        content={ContactContent.text}
-        id="contact"
-      />
     </Container>
   );
 };
