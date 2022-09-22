@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Fundamentos de Sistema de Informação",
+  "text": "O gerente de área precisa envolver-se no gerenciamento de projetos. Não significa que tenha de se transformar em um gerente de projetos, mas que deve desempenhar algumas tarefas diretamente relacionadas, trabalhar com os membros da equipe responsável, entender as prioridades e os problemas e tomar decisões em conjunto.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Aprofundar"
     },
     {
-      "title": "Learn More",
+      "title": "Ler mais",
       "color": "#fff"
     }
   ]
