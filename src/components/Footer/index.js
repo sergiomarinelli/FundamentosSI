@@ -34,7 +34,7 @@ const Footer = ({ t }) => {
       <Fade bottom>
         <S.Footer>
           <Container>
-            <Row type="flex" justify="space-between">
+          {/*   <Row type="flex" justify="space-between">
               <Col lg={10} md={10} sm={12} xs={24}>
                 <S.Language>{t("Contact")}</S.Language>
                 <S.Large to="/">{t("Tell us everything")}</S.Large>
@@ -65,15 +65,15 @@ const Footer = ({ t }) => {
                   {t("Customer Support")}
                 </S.Large>
               </Col>
-            </Row>
+            </Row> */}
             <Row type="flex" justify="space-between">
-              <Col lg={10} md={10} sm={12} xs={24}>
+              {/* <Col lg={10} md={10} sm={12} xs={24}>
                 <S.Empty />
                 <S.Language>{t("ADDRESS")}</S.Language>
                 <S.Para>Rancho Santa Margarita</S.Para>
                 <S.Para>2131 Elk Street</S.Para>
                 <S.Para>California</S.Para>
-              </Col>
+              </Col> */}
               <Col lg={8} md={8} sm={12} xs={24}>
                 <S.Title>{t("Company")}</S.Title>
                 <S.Large left="true" to="/">
@@ -91,7 +91,7 @@ const Footer = ({ t }) => {
               </Col>
               <Col lg={6} md={6} sm={12} xs={24}>
                 <S.Select>
-                  <S.Label htmlFor="select-lang">{t("Language")}</S.Label>
+                  <S.Label htmlFor="select-lang">{t("Aprender sobre")}</S.Label>
                   <S.LangSelect
                     onChange={handleChange}
                     value={i18n.language}
