@@ -1,10 +1,10 @@
 import React, { useState, Fragment } from "react";
-import Loadable from "@loadable/component"
+import Loadable from "@loadable/component";
 import { Row, Col, Drawer } from "antd";
 import { CSSTransition } from "react-transition-group";
 import { withTranslation } from "react-i18next";
 
-import Head from './Head';
+import Head from "./Head";
 import * as S from "./styles";
 
 const SvgIcon = Loadable(() => import("../../common/SvgIcon"));
@@ -35,13 +35,13 @@ const Header = ({ t }) => {
       <Fragment>
         <Head />
         <S.CustomNavLinkSmall onClick={() => scrollTo("about")}>
-          <S.Span>{t("About")}</S.Span>
+          <S.Span>{t("Conceitos")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => scrollTo("mission")}>
-          <S.Span>{t("Mission")}</S.Span>
+          <S.Span>{t("Características")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => scrollTo("product")}>
-          <S.Span>{t("Product")}</S.Span>
+          <S.Span>{t("Exemplos")}</S.Span>
         </S.CustomNavLinkSmall>
       </Fragment>
     );

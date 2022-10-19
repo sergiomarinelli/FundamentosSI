@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import { Row, Col } from "antd";
 import i18n from "i18next";
 import { withTranslation } from "react-i18next";
-import Loadable from "@loadable/component"
+import Loadable from "@loadable/component";
 import Fade from "react-reveal/Fade";
 
 import * as S from "./styles";
@@ -34,7 +34,7 @@ const Footer = ({ t }) => {
       <Fade bottom>
         <S.Footer>
           <Container>
-          {/*   <Row type="flex" justify="space-between">
+            {/*   <Row type="flex" justify="space-between">
               <Col lg={10} md={10} sm={12} xs={24}>
                 <S.Language>{t("Contact")}</S.Language>
                 <S.Large to="/">{t("Tell us everything")}</S.Large>
@@ -90,7 +90,7 @@ const Footer = ({ t }) => {
                 </S.Large>
               </Col>
               <Col lg={6} md={6} sm={12} xs={24}>
-                <S.Select>
+                {/*  <S.Select>
                   <S.Label htmlFor="select-lang">{t("Aprender sobre")}</S.Label>
                   <S.LangSelect
                     onChange={handleChange}
@@ -100,7 +100,7 @@ const Footer = ({ t }) => {
                     <option value="en">English</option>
                     <option value="es">Español</option>
                   </S.LangSelect>
-                </S.Select>
+                </S.Select> */}
               </Col>
             </Row>
           </Container>

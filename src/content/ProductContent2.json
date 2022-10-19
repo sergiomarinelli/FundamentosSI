@@ -1,0 +1,4 @@
+{
+  "title": "Exemplo de Teoria Geral dos Sistemas",
+  "text": "Exemplo 1: O termostato é um aparelho responsável por manter a temperatura estável dentro de um local. Conforme a temperatura aumenta, o termostato responde ligando ou desligando um ar-condicionado ou aquecedor. O termostato, portanto, é um sistema aberto programado para manter-se em homeostase (equilíbrio) conforme recebe inputs (temperatura do ambiente).A entrada (input) recebida pelo termostato funciona como feedback negativo, pois força uma resposta contrária do sistema. Se a entrada é calor, a saída (output) é frio e vice-versa."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Conceitos importantes da teoria geral dos sistemas",
+  "text": "A teoria geral dos sistemas apresenta alguns conceitos que são essenciais para a sua compreensão:",
+  "section": [
+    {
+      "title": "O que é um SISTEMA?",
+      "content": "organismo composto por partes independentes e interligadas.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é FRONTEIRAS?",
+      "content": "Limites que definem um sistema e os separa de outros.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é ENTROPIA?",
+      "content": "Grandeza que mede o nível de irreversibilidade das alterações sofridas por um sistema físico.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é HOMEOSTASE?",
+      "content": "Resistência a alterações por parte de um sistema com tendência a manter-se em equilíbrio.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é AMBIENTE?",
+      "content": "Contexto externo no qual o sistema está situado.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é INPUT?",
+      "content": "Fenômeno ou causa que inicia o funcionamento do sistema.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é OUTPUT?",
+      "content": "Consequência final do funcionamento do sistema. Os resultados devem ser coerentes com o propósito do sistema.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "O que é Processamento?",
+      "content": "Processo de conversão das importações em exportações.",
+      "icon": "notes.svg"
+    }
+  ]
+}
