@@ -74,7 +74,7 @@ const Footer = ({ t }) => {
                 <S.Para>2131 Elk Street</S.Para>
                 <S.Para>California</S.Para>
               </Col> */}
-              <Col lg={8} md={8} sm={12} xs={24}>
+              {/*            <Col lg={8} md={8} sm={12} xs={24}>
                 <S.Title>{t("Company")}</S.Title>
                 <S.Large left="true" to="/">
                   {t("About")}
@@ -88,7 +88,7 @@ const Footer = ({ t }) => {
                 <S.Large left="true" to="/">
                   {t("Careers & Culture")}
                 </S.Large>
-              </Col>
+              </Col> */}
               <Col lg={6} md={6} sm={12} xs={24}>
                 {/*  <S.Select>
                   <S.Label htmlFor="select-lang">{t("Aprender sobre")}</S.Label>
@@ -106,7 +106,7 @@ const Footer = ({ t }) => {
           </Container>
         </S.Footer>
         <S.Extra>
-          <Container border="true">
+          {/* <Container border="true">
             <Row
               type="flex"
               justify="space-between"
@@ -146,7 +146,7 @@ const Footer = ({ t }) => {
                 />
               </S.FooterContainer>
             </Row>
-          </Container>
+          </Container> */}
         </S.Extra>
       </Fade>
     </Fragment>

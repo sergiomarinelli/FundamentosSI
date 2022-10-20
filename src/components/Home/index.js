@@ -70,6 +70,13 @@ const Home = () => {
 
   return (
     <>
+      <S.Select>
+        <S.Label htmlFor="select-lang">{"Aprender sobre"}</S.Label>
+        <S.LangSelect onChange={handleChange} id="select-lang">
+          <option value="1">1 Teoria Geral dos Sistemas</option>
+          <option value="2">2 Sistemas de Informação</option>
+        </S.LangSelect>
+      </S.Select>
       <Container>
         <ScrollToTop />
         <ContentBlock
@@ -114,8 +121,8 @@ const Home = () => {
       <S.Select>
         <S.Label htmlFor="select-lang">{"Aprender sobre"}</S.Label>
         <S.LangSelect onChange={handleChange} id="select-lang">
-          <option value="1">1 XXX</option>
-          <option value="2">2 XXX</option>
+          <option value="1">1 Teoria Geral dos Sistemas</option>
+          <option value="2">2 Sistemas de Informação</option>
         </S.LangSelect>
       </S.Select>
     </>

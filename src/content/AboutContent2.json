@@ -1,45 +1,20 @@
 {
-  "title": "Conceitos importantes da teoria geral dos sistemas",
-  "text": "A teoria geral dos sistemas apresenta alguns conceitos que são essenciais para a sua compreensão:",
+  "title": "Dimensões do Sistema de Informação",
+  "text": "Essas dimensões são:",
   "section": [
     {
-      "title": "O que é um SISTEMA?",
-      "content": "organismo composto por partes independentes e interligadas.",
+      "title": "Organizações",
+      "content": "os sistemas de informação são partes integrantes das organizações. Uma organização executa e coordena seus trabalhos por meio de seus processos organizacionais e hierarquias.",
       "icon": "notes.svg"
     },
     {
-      "title": "O que é FRONTEIRAS?",
-      "content": "Limites que definem um sistema e os separa de outros.",
+      "title": "Tecnologia",
+      "content": "a TI é uma ferramenta muito utilizada por gerentes e tomadores de decisões para enfrentar as constantes mudanças.",
       "icon": "notes.svg"
     },
     {
-      "title": "O que é ENTROPIA?",
-      "content": "Grandeza que mede o nível de irreversibilidade das alterações sofridas por um sistema físico.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "O que é HOMEOSTASE?",
-      "content": "Resistência a alterações por parte de um sistema com tendência a manter-se em equilíbrio.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "O que é AMBIENTE?",
-      "content": "Contexto externo no qual o sistema está situado.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "O que é INPUT?",
-      "content": "Fenômeno ou causa que inicia o funcionamento do sistema.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "O que é OUTPUT?",
-      "content": "Consequência final do funcionamento do sistema. Os resultados devem ser coerentes com o propósito do sistema.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "O que é Processamento?",
-      "content": "Processo de conversão das importações em exportações.",
+      "title": "Pessoas",
+      "content": "para o sucesso de uma empresa, é de suma importância que as pessoas sejam qualificadas para efetuar suas funções.",
       "icon": "notes.svg"
     }
   ]
